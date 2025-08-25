@@ -1,8 +1,12 @@
 # wolfram-alpha
-[![npm status](http://img.shields.io/npm/v/wolfram-alpha.svg)](https://www.npmjs.org/package/wolfram-alpha)
-[![dependency status](https://david-dm.org/clux/wolfram-alpha.svg)](https://david-dm.org/clux/wolfram-alpha)
-[![CI](https://github.com/clux/wolfram-alpha/actions/workflows/ci.yml/badge.svg)](https://github.com/clux/wolfram-alpha/actions/workflows/ci.yml)
 
+## **DEPRECATED AND ARCHIVED**
+This repo is archived and the package should be considered deprecated.
+It relies on old, vulnerable libxml, as well as request which is also outdated.
+No further development is provided.
+
+## Info
+[![npm status](http://img.shields.io/npm/v/wolfram-alpha.svg)](https://www.npmjs.org/package/wolfram-alpha)
 This is a Wolfram|Alpha API wrapper for Node.js.
 
 All the query parameters are fully customizable as per the [API reference](http://products.wolframalpha.com/docs/WolframAlpha-API-Reference.pdf), and the normal `'plaintext,image,sound,mathml'` formats are all parsed properly.
