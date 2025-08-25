@@ -1,8 +1,7 @@
 # wolfram-alpha
 [![npm status](http://img.shields.io/npm/v/wolfram-alpha.svg)](https://www.npmjs.org/package/wolfram-alpha)
-[![build status](https://secure.travis-ci.org/clux/wolfram-alpha.svg)](http://travis-ci.org/clux/wolfram-alpha)
 [![dependency status](https://david-dm.org/clux/wolfram-alpha.svg)](https://david-dm.org/clux/wolfram-alpha)
-[![coverage status](http://img.shields.io/coveralls/clux/wolfram-alpha.svg)](https://coveralls.io/r/clux/wolfram-alpha)
+[![CI](https://github.com/clux/wolfram-alpha/actions/workflows/ci.yml/badge.svg)](https://github.com/clux/wolfram-alpha/actions/workflows/ci.yml)
 
 This is a Wolfram|Alpha API wrapper for Node.js.
 
